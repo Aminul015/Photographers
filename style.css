@@ -1,0 +1,27 @@
+ .div1{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 50px;
+  
+ }
+ 
+ i 
+ {
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: .3s all;
+    
+ }
+ i:hover 
+ {
+    background-color: red;
+    color: white;
+ }
+ .btn:hover
+ {
+    background-color: red;
+    color: white;
+ }
